@@ -80,7 +80,7 @@ const Navbar = () => {
                     )}
                 </li>
                 <li>
-                    <RouterLink to="/programs">Program</RouterLink>
+                    <RouterLink to="/programs">Forums</RouterLink>
                 </li>
                 <li>
                     {isHomePage ? (
